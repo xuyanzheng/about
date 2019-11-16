@@ -44,7 +44,7 @@ Male / October 13th, 1981 / 17660951078 / hsu@fastmail.com
 
 ## MISCELLANEOUS
 - **Languages**: Chinese, English
-- **Skills**: Office, Axure, MockingBot, Photoshop, Writing, Speech, Roadshow
+- **Skills**: Programming, Office, Axure, MockingBot, Photoshop, Writing, Speech, Roadshow
 - **Interests**: Reading
 
 ---
@@ -95,5 +95,5 @@ Male / October 13th, 1981 / 17660951078 / hsu@fastmail.com
 
 ## 其它
 - **语言**：中文、英文
-- **技能**：Office、Axure、墨刀、Photoshop、写作、演讲、路演
+- **技能**：编程、Office、Axure、墨刀、Photoshop、写作、演讲、路演
 - **兴趣**：读书
