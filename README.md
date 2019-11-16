@@ -6,9 +6,9 @@ Male / October 13th, 1981 / 17660951078 / hsu@fastmail.com
 ## EDUCATION
 
 ### Shandong University
-**Computer and Application**
+**Computer and Application / College degree**
 
-*College degree / Sep 2002 - Jun 2005*
+*Sep 2002 - Jun 2005*
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -57,9 +57,9 @@ Male / October 13th, 1981 / 17660951078 / hsu@fastmail.com
 ## 教育经历
 
 ### 山东大学
-**计算机及应用**
+**计算机及应用 / 专科**
 
-*专科 / 2002年9月 - 2005年6月*
+*2002年9月 - 2005年6月*
 
 ## 工作经历
 
