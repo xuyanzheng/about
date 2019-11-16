@@ -47,6 +47,8 @@ Male / October 13th, 1981 / 17660951078 / hsu@fastmail.com
 - **Skills**: Office, Axure, MockingBot, Photoshop, Writing, Speech, Roadshow
 - **Interests**: Reading
 
+---
+
 # 徐延政
 男 / 1981年10月13日 / 17660951078 / hsu@fastmail.com
 
