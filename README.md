@@ -1,4 +1,4 @@
-# Jeffrey  Hsu
+# Jeffrey Hsu
 Male / October 13th, 1981 / 17660951078 / hsu@fastmail.com
 
 > The harder you work, the luckier you get.
