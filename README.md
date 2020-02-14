@@ -45,7 +45,7 @@ Male / October 13th, 1981 / 17660951078 / 76362961@qq.com
 ## MISCELLANEOUS
 - **Languages**: Chinese, English
 - **Skills**: Programming, Office, Axure, MockingBot, Photoshop, Writing, Speech, Roadshow
-- **Interests**: Reading
+- **Interests**: Reading, Military, Astronomy
 
 ---
 
@@ -96,4 +96,4 @@ Male / October 13th, 1981 / 17660951078 / 76362961@qq.com
 ## 其它
 - **语言**：中文、英文
 - **技能**：编程、Office、Axure、墨刀、Photoshop、写作、演讲、路演
-- **兴趣**：读书
+- **兴趣**：读书、军事、天文
