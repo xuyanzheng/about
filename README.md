@@ -1,5 +1,5 @@
-# Jeffrey Hsu
-Male / October 13th, 1981 / 17660951078 / hsu@fastmail.com
+# Jeffrey Xu
+Male / October 13th, 1981 / 17660951078 / 76362961@qq.com
 
 > The harder you work, the luckier you get.
 
@@ -50,7 +50,7 @@ Male / October 13th, 1981 / 17660951078 / hsu@fastmail.com
 ---
 
 # 徐延政
-男 / 1981年10月13日 / 17660951078 / hsu@fastmail.com
+男 / 1981年10月13日 / 17660951078 / 76362961@qq.com
 
 > 越努力，越幸运。
 
